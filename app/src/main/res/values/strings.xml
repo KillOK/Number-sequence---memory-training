@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Number box - memory training</string>
+    <string name="new_game_text">New Game</string>
+    <string name="records_text">Records</string>
 </resources>
