@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyGame.iml" filepath="$PROJECT_DIR$/MyGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number-box---memory-training.iml" filepath="$PROJECT_DIR$/Number-box---memory-training.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
